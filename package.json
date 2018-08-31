@@ -1,0 +1,25 @@
+{
+  "name": "vue_news",
+  "version": "1.0.0",
+  "description": "使用vue.js开发的报纸app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenyongyang/vue_news.git"
+  },
+  "keywords": [
+    "vue.js"
+  ],
+  "author": "chenyongyang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chenyongyang/vue_news/issues"
+  },
+  "homepage": "https://github.com/chenyongyang/vue_news#readme",
+  "devDependencies": {
+    "request": "^2.88.0"
+  }
+}
